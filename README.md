@@ -7,7 +7,7 @@ Github page:
 https://amersurkovic.github.io/CatchACoinGame/
 
 
-<a href="Game_Build.zip">Download game</a>
+<a href="CatchaCoinGame.zip">Download game</a>
 
 <p>Powered by:</p>
 <img src='http://www.logoeps.net/photo1/unity3d-logo-thumb.jpg' height="100" width="110"> 
