@@ -6,4 +6,4 @@ Game was done in Unity with scripts written in C#.
 Github page:
 https://amersurkovic.github.io/CatchACoinGame/
 
-<a href="Game_Build.zip">Download</a>
+<a href="Game_Build.zip">Download game</a>
