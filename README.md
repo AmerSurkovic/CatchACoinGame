@@ -3,10 +3,6 @@ Time limited 3D game made in Unity where the objective is to collect as many of 
 Model of the room was done in Blender.
 Game was done in Unity with scripts written in C#.
 
-Github page:
-https://amersurkovic.github.io/CatchACoinGame/
-
-
 <a href="CatchaCoinGame.zip">Download game</a>
 
 <p>Powered by:</p>
