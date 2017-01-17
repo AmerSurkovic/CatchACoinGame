@@ -6,4 +6,10 @@ Game was done in Unity with scripts written in C#.
 Github page:
 https://amersurkovic.github.io/CatchACoinGame/
 
+
 <a href="Game_Build.zip">Download game</a>
+
+<p>Powered by:</p>
+<img src='http://www.logoeps.net/photo1/unity3d-logo-thumb.jpg' height="100" width="110"> 
+<img src='https://download.blender.org/institute/BlenderDesktopLogo.png' height="100" width="110">
+<img src='http://devstickers.com/assets/img/pro/2p4i.png' height="100" width="100">
